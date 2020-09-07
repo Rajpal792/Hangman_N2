@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hangman_N2", "Hangman_N2\Hangman_N2.csproj", "{AD660927-0667-4C40-9C78-E6FD963A085D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD660927-0667-4C40-9C78-E6FD963A085D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3949AD52-1627-4F89-A13F-DF54409E2E3D}
+	EndGlobalSection
+EndGlobal
